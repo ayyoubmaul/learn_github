@@ -1,0 +1,16 @@
+git add Readme.md
+ 1936  git status
+ 1937  git checkout -b add/readme
+ 1938  git status
+ 1939  clear
+ 1940  git commit -m "Adding Readme file"
+ 1941  git log -n2
+ 1942  git status
+ 1943  git push origin add/readme
+ 1944  git status
+ 1945  git checkout main
+ 1946  git pull
+ 1947  git remote -v
+ 1948  git remote set-url origin https://ayyoubmaul:<your token>@github.com/ayyoubmaul/learn_github.git
+ 1949  git remote -v
+ 1950  clear
