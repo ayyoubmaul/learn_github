@@ -3,7 +3,4 @@ line 2
 line 3
 
 
-
-
-
-line 9
+line 6
